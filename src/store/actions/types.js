@@ -1,0 +1,11 @@
+export const LOGIN = 'LOGIN';
+export const LOAD_ALL_CATAGORIES = 'LOAD_ALL_CATAGORIES';
+export const LOAD_ALL_PRODUCTS = 'LOAD_ALL_PRODUCTS';
+export const ADD_CATAGORY = 'ADD_CATAGORY';
+export const LOAD_ALL_COMPANIES = 'LOAD_ALL_COMPANIES';
+export const ADD_COMPANIE = 'ADD_COMPANIE';
+export const LOAD_ALL_AISLE = 'LOAD_ALL_AISLE';
+export const ADD_AISLE = 'ADD_AISLE';
+export const LOAD_UOM = 'LOAD_UOM';
+export const LOAD_SIZES = 'LOAD_SIZES';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
